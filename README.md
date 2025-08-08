@@ -1,4 +1,4 @@
-# -Agricultural-Phenology-Mapping-with-Seasonal-NDVI-Composites
+# Agricultural-Phenology-Mapping-with-Seasonal-NDVI-Composites
 
 This Google Earth Engine project provides an efficient and robust workflow to monitor agricultural activity by visualizing the peak vegetation greenness across different seasons. By creating a Maximum Value Composite (MVC) of the Normalized Difference Vegetation Index (NDVI) for distinct periods of the year, this script generates a single, color-rich RGB image that reveals cropping patterns, monitors fallow land, and helps differentiate between single and multi-season cropping systems.
 
